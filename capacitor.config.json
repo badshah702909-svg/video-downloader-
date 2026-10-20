@@ -1,0 +1,6 @@
+{
+  "appId": "com.pulse.videodownloader",
+  "appName": "Video Downloader",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
